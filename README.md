@@ -41,7 +41,7 @@ OPENAI_API=your_api_key_here
 Open Final_Project_8BitDo_Keyboard.ipynb and run all cells.
 * Note: The notebook is configured to use the pre-collected data in the data/ folder to ensure reproducibility without re-scraping Amazon.
 
-## Instructions for Q3 Teammate (Image Generation)
+## Instructions for Q3
 
 Your main input file is: data/image_generation_summary.json
 
